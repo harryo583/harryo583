@@ -1,8 +1,17 @@
-### Hi there 👋
 
-<!--
 **harryo583/harryo583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## About Me
+
+- Math + CS major at Northwestern University
+- Avid lover of tennis, machine learning, number theory & combo
+- Currently working on a crypto autotrader project implemented with LSTMs
+
+## Get in Touch
+
+- Feel free to reach out via wanghongyi583@gmail.com.
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
