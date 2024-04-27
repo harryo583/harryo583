@@ -4,8 +4,7 @@
 ## About Me
 
 - Math + CS major at Northwestern University
-- Avid lover of tennis, machine learning, number theory & combo
-- Currently working on a crypto autotrader project implemented with LSTMs
+- Avid lover of tennis, ML, number theory & combo
 
 ## Get in Touch
 
