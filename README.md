@@ -8,7 +8,7 @@
 
 ## Get in Touch
 
-- Feel free to reach out via wanghongyi583@gmail.com.
+- Feel free to reach out via harrywang@u.northwestern.edu
 
 <!--
 Here are some ideas to get you started:
