@@ -8,7 +8,12 @@
 
 ## Get in Touch
 
-- Feel free to reach out via harrywang@u.northwestern.edu
+Feel free to reach out:
+
+- 📧 Email: [harrywang@u.northwestern.edu](mailto:harrywang@u.northwestern.edu)
+- 💼 LinkedIn: [Harry Wang](https://linkedin.com/in/harrywang)
+- 🌐 GitHub: [@harryo583](https://github.com/harryo583)
+
 
 <!--
 Here are some ideas to get you started:
