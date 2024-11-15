@@ -11,7 +11,7 @@
 Feel free to reach out:
 
 - 📧 Email: [harrywang@u.northwestern.edu](mailto:harrywang@u.northwestern.edu)
-- 💼 LinkedIn: [Harry Wang](https://linkedin.com/in/harrywang)
+- 💼 LinkedIn: [Harry Wang](https://www.linkedin.com/in/harry-wang-hongyi/)
 - 🌐 GitHub: [@harryo583](https://github.com/harryo583)
 
 
