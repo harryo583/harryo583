@@ -4,7 +4,7 @@
 ## About Me
 
 - Math + CS major at Northwestern University
-- Avid lover of tennis, speedcubing, and math puzzles
+- Loves tennis, speedcubing, and puzzles
 
 ## Get in Touch
 
